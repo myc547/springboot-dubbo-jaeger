@@ -7,6 +7,9 @@
 ├── springboot-dubbo-hello # 采用Springboot Dubbo 注解方式
 └── web-front              # 采用Springboot Dubbo XML配置方式
 
+# 调用关系
+![image](https://github.com/myc547/springboot-dubbo-jaeger/blob/master/doc/springboot-dubbo-jaeger.png)
+
 # 技术框架
 1. dubbo 2.6.0
 2. springboot: 2.3.2.RELEASE
