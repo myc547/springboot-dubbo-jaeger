@@ -1,0 +1,5 @@
+spring:
+  zipkin:
+    base-url: http://192.168.64.3:32279
+  application:
+    name: web-front
