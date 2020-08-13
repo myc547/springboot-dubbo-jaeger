@@ -1,12 +1,12 @@
 # 介绍
 为了验证新旧项目对tracing的支持，项目模块说明：
-
+```
 ├── dubbo-greeting         # 采用Dubbo+Spring XML配置方式
 ├── dubbo-user             # 采用Dubbo+Spring XML配置方式
 ├── dubbo-user-api
 ├── springboot-dubbo-hello # 采用Springboot Dubbo 注解方式
 └── web-front              # 采用Springboot Dubbo XML配置方式
-
+```
 # 调用关系
 ![image](https://github.com/myc547/springboot-dubbo-jaeger/blob/master/doc/springboot-dubbo-jaeger.png)
 
